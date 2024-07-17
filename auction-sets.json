@@ -1,0 +1,30 @@
+{
+    "players": [
+      {
+        "id": 1,
+        "name": "Lionel Messi",
+        "profile_url": "https://pesdb.net/efootball/?id=89133187865943",
+        "base_price": 10000
+      },
+      {
+        "id": 2,
+        "name": "Cristiano Ronaldo",
+        "profile_url": "https://pesdb.net/efootball/?id=89133187865944",
+        "base_price": 10000
+      },
+      {
+        "id": 3,
+        "name": "Neymar Jr.",
+        "profile_url": "https://pesdb.net/efootball/?id=89133187865945",
+        "base_price": 10000
+      },
+      {
+        "id": 4,
+        "name": "Kylian Mbappe",
+        "profile_url": "https://pesdb.net/efootball/?id=89133187865946",
+        "base_price": 10000
+      }
+      
+    ]
+  }
+  
